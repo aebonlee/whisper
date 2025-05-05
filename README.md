@@ -1,6 +1,3 @@
-# Create a personalized GitHub profile banner text in markdown and a README.md template per project
-project_readmes = {
-    "whisper-gpt-chatbot": """
 # 🗣️ Whisper + GPT 음성 비서 챗봇
 
 ## 프로젝트 소개
@@ -17,7 +14,9 @@ Streamlit으로 인터페이스를 구축하였으며, TTS를 통한 음성 응�
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-----
+
+<hr>
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
