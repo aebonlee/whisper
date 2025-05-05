@@ -14,8 +14,7 @@ Streamlit으로 인터페이스를 구축하였으며, TTS를 통한 음성 응�
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-<hr>
+```
 
 # Whisper
 
